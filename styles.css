@@ -37,5 +37,18 @@ nav{
 .nav-left .menu-icon{
     width: 22px;
     margin-right: 25px;
-    
+
+}
+.nav-left .logo{
+    width: 130px;
+}
+
+.nav-middle .mic-icon{
+    width: 16px;
+}
+
+.nav-middle .search-box{
+    border: 1px solid #ccc;
+    margin-right: 15px;
+    padding: 8px 12px;
 }
