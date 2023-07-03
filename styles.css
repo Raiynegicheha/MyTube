@@ -128,3 +128,13 @@ nav{
     width: 50%;
     margin: 25px;
 }
+
+/*--------------------main------------------*/
+
+.container{
+    background: #fff;
+    padding-left: 17%;
+    padding-right: 2%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
