@@ -182,3 +182,12 @@ nav{
     display: block;
     margin-bottom: 5px;
 }
+
+
+
+
+@media (max-width: 900px){
+    .menu-icon{
+        display: none;
+    }
+}
