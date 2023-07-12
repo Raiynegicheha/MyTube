@@ -190,4 +190,11 @@ nav{
     .menu-icon{
         display: none;
     }
+    .sidebar{
+        display: none;
+    }
+    .container, .large-container{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
 }
