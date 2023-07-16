@@ -139,6 +139,7 @@ nav{
     padding-bottom: 20px;
 }
 
+
 .large-container{
     padding-left: 7%;
 }
@@ -226,4 +227,10 @@ nav{
 
 .play-container{
     padding-left: 2%;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
