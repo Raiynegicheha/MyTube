@@ -299,3 +299,12 @@ nav{
     background-color: #ccc;
     margin: 10px 0px;
 }
+.publisher{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.publisher div{
+    flex: 1;
+}
