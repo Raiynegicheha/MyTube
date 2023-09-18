@@ -14,6 +14,7 @@ img{
 .flex-div{
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 nav{
     padding: 10px 2%;
