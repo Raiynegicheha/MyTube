@@ -13,7 +13,7 @@ img{
 }
 .flex-div{
     display: flex;
-    align-items: center;
+    align-items: left;
     justify-content: center;
 }
 nav{
